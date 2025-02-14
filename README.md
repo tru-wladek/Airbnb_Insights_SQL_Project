@@ -7,8 +7,12 @@ Having traveled to Mallorca multiple times and actively used Airbnb for renting 
 For this project, I used the latest dataset from Inside Airbnb, which includes over 16,000 listings across Mallorca. While the raw dataset contained numerous columns, I focused on the most impactful factors influencing pricing and demand.
 
 My SQL Queries? Check them out here:
-- Cleansing: link_1
-- Analyzing: link_2
+- Cleansing: [link_1](https://github.com/tru-wladek/Airbnb_Insights_SQL_Project/blob/main/listing_cleansing.sql)
+- Analyzing: [link_2](https://github.com/tru-wladek/Airbnb_Insights_SQL_Project/blob/main/listing_analysing.sql)
+
+Get raw Airbnb DATA HERE:
+- listings: https://data.insideairbnb.com/spain/islas-baleares/mallorca/2024-12-14/data/listings.csv.gz
+- reviews: https://data.insideairbnb.com/spain/islas-baleares/mallorca/2024-12-14/data/reviews.csv.gz
 
 
 # The questions I wanted to answer through my SQL queries were 
